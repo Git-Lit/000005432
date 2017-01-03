@@ -1,3 +1,7 @@
+---
+layout: default
+title: Signa: opera in tre atti  ... Traduzione ritmica di G. Mazzucato
+---
 <!-- This file was created from text provided by the British Library. --> 
 
 
